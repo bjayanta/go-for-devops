@@ -286,8 +286,7 @@ devopsctl healthcheck https://example.com
 
 Architecture:
 
-````text
-
+```text
                     devopsctl
                        │
           ┌────────────┼────────────┐
@@ -304,5 +303,16 @@ Architecture:
                     config
                        │
                      SSH
-                     ```
-````
+```
+
+Use this cycle:
+
+```text
+Learn → code → break it → debug it → improve it → build a tool.
+```
+
+That's especially important for DevOps because you'll spend much more time automating and troubleshooting systems than writing traditional application code.
+
+--
+
+Thank you
